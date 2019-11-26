@@ -1,1 +1,2 @@
 # fatemehtokhi
+Competent java Developer with 1 years’ development experience in DataStructure, Algorithm and Spring framework. I have worked on numerous projects and helped students to learn basic concept of Java programming languages, Datastructures and time complexity.  An enthusiast in  Java programming and Spring framework, I take pride in coding and regularly refresh my skills to ensure I keep up with ongoing developments. 
