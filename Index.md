@@ -1,5 +1,6 @@
 
-# Name:Fatemah Tokhi/Gender:Female 
+# Fatemah Tokhi
+* Female Developer
 Competent java Developer with 1 and half years of development experience in DataStructure, Algorithm and Spring framework. I have worked on numerous projects and helped students to learn basic concept of Java programming languages, Datastructures and time complexity.An enthusiast in  Java programming and Spring framework, I take pride in coding and regularly refresh my skills to ensure I keep up with ongoing developments. 
 
 # Skills
