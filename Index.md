@@ -22,29 +22,29 @@ skills in Linux: (2 years) working experience with different Ubuntu distribution
 Working experience in Trello.
 
 # Education
-March, 2007 - Bachelor in Computer Science , Herat University.
+- March, 2007 - Bachelor in Computer Science , Herat University.
 
-Computer Science - Algorithms and DataStructures.
+- Computer Science - Algorithms and DataStructures.
 
-April, 2005 - 2 months Scholarship in Technical University of Berlin , Germany working on Algorithms and Programming Concepts.
+- April, 2005 - 2 months Scholarship in Technical University of Berlin , Germany working on Algorithms and Programming Concepts.
 
-Learning Linux Operating Systems in NOC.
+- Learning Linux Operating Systems in NOC.
 
 # Work Experience
-Software Developer (Herat University)
+- Software Developer (Herat University)
 
-Algorithm and basic Programming Lecturer's assistant ( Herat University – Computer Science Faculty ).
+- Algorithm and basic Programming Lecturer's assistant ( Herat University – Computer Science Faculty ).
 
-Herat University Network Operation Center Trainee.
+- Herat University Network Operation Center Trainee.
 
-Academic Adminestration Officer in Herat University (Computer Science Faculty).
+- Academic Adminestration Officer in Herat University (Computer Science Faculty).
 
-Teaching DataStructures and programming.
+- Teaching DataStructures and programming.
 
 # Langages
-English good
+- English Very Good
 
-German  good
+- German  Very Good
 
 # Location
-Germany-Berlin
+- Berlin, Germany
